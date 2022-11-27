@@ -1,8 +1,8 @@
 {
-  "name": "retos-dia2",
+  "name": "apuntes-de-clas",
   "version": "1.0.0",
   "description": "",
-  "main": "photos.js",
+  "main": "aggregate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
